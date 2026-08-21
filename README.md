@@ -39,7 +39,7 @@ Delivered as part of **Infront Of Us**, an edtech initiative bridging classroom 
 
 ## Links
 - 🌐 [Infront Of Us](https://www.infrontofus.app)
-- 💼 LinkedIn post: *(add link once posted)*
+- 💼 LinkedIn post: *(https://www.linkedin.com/posts/harini-palanisamy-85b703340_infrontofus-embeddediot-raspberrypi-ugcPost-7482347899515715585-lNkg/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFWIrQcBwiDRW-CEa59vcQ-Hw4YYvgDWV_M)*
 
 ---
 *Part of ongoing mentoring and outreach work under Infront Of Us across schools and colleges in Tamil Nadu.*
